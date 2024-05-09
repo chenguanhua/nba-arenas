@@ -1,3 +1,6 @@
+folium
+streamlit_folium
+nba_api
 altair
 numpy
 pandas
